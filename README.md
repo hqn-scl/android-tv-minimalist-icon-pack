@@ -9,3 +9,7 @@ While traditional TV icons feature a chaotic mix of solid shapes, vibrant colors
 - Developed specifically for Android TV, Google TV, and custom launcher environments (Projectivy Launcher, FLauncher, Wolf Launcher, etc.).
 - Consistent, unified design language that eliminates visual clutter.
 - High-contrast, minimalist iconography sitting on a premium translucent canvas.
+
+## How to install:
+
+Use Downloader code 4927174 or get it [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/release/com.hqnscl.minimalisticons-1.0.0-release.apk).
