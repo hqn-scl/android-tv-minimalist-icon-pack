@@ -4,6 +4,10 @@ Built for enthusiasts who love a clean setup, this icon pack takes inspiration f
 
 While traditional TV icons feature a chaotic mix of solid shapes, vibrant colors, and mismatched borders, this pack introduces a universal semi-transparent background layer for every single app tile. This subtle transparency softens the UI, letting your background wallpaper breathe while maintaining a crisp, identifiable, and perfectly aligned grid for your apps.
 
+## Screenshot
+
+![Alt text](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/assets/screenshot.png)
+
 ## Highlights:
 
 - Developed specifically for Android TV, Google TV, and custom launcher environments (Projectivy Launcher, FLauncher, Wolf Launcher, etc.).
