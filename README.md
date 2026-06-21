@@ -14,7 +14,9 @@ Feel free to submit an issue with an icon request. The list of supported icons a
 
 ## Design process & sources
 
-Icons were either sourced from [Simple Icons](https://simpleicons.org/) or in some cases completely redesigned, such as Tizen Tube, ProjectIvy etc. I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
+Icons were either sourced from [Simple Icons](https://simpleicons.org/) or in some cases completely redesigned, such as Tizen Tube, ProjectIvy etc. I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK. Other sources used:
+
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 ## Screenshot
 
