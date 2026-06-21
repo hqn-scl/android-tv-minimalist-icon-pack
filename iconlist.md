@@ -1,20 +1,32 @@
 # Supported app icons
 
+- Adguard
 - Amazon Prime
+- App Store
 - Apple TV
+- Crunchyroll
 - Disney Plus
 - Downloader
+- Files
 - Google Chrome
 - Google Play
+- HBO Max
+- Jellyfin
+- Kodi
 - Netflix
 - Nuvio
 - Paramount Plus
 - Plex
 - Projectivy
+- ProtonVPN
 - SmartTube
 - Spotify
+- Steam
 - Stremio
 - TizenTube
+- Twitch
+- VLC
 - Wuplay
 - YouTube
+- YouTube Kids
 - YouTube Music

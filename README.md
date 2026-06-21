@@ -14,8 +14,10 @@ Feel free to submit an issue with an icon request. The (currently very short) li
 
 ## Design process & sources
 
-Icons were either sourced from [Simple Icons](https://simpleicons.org/) or in some cases completely redesigned, such as Tizen Tube, ProjectIvy etc. I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK. Other sources used:
+In many cases, icons such as Tizen Tube and ProjectIvy were redesigned from the ground up. I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
+Other sources used:
 
+- [Simple Icons](https://simpleicons.org/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 ## Screenshot
