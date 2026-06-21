@@ -14,6 +14,7 @@ Feel free to submit an issue with an icon request. The (currently very short) li
 
 ## Design process & sources
 
+I use Adobe Illustrator and exclusively rely on vector graphics for a sharp look.
 I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
 
 In many cases, icons such as Tizen Tube and ProjectIvy were redesigned from the ground up. Other sources include:
