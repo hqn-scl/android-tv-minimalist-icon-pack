@@ -1,12 +1,12 @@
 # A Minimalist Icon Pack for Android TV Launchers
 
-Built for tinkerers who love a clean setup, this icon pack takes inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). The goal was to stick to the design philosophy of Mortisshafow's Apple TV-style icons, but with a unified bacground color for a consistent look.
+This icon pack takes inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). The goal was to stick to the design philosophy of Apple TV-style icons, but with a unified bacground color for a consistent look.
 
-Wherever possible, the icons display non-text icons for a clean aesthetic, the exception being text-only logos.
+Icons prioritize clean, non-text symbols, using wordmarks only when a text-only logo is unavoidable.
 
 ## Design philosophy
 
-I made these purely for myself. After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I immediately needed to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. After that I added a few others that might be useful.
+After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I immediately needed to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. After that I added more. I intend to add more over time, and I welcome requests for new icons.
 
 ## Icon requests
 
@@ -14,9 +14,9 @@ Feel free to submit an issue with an icon request. The (currently very short) li
 
 ## Design process & sources
 
-In many cases, icons such as Tizen Tube and ProjectIvy were redesigned from the ground up. I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
-Other sources used:
+I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
 
+In many cases, icons such as Tizen Tube and ProjectIvy were redesigned from the ground up. Other sources include:
 - [Simple Icons](https://simpleicons.org/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
@@ -24,11 +24,12 @@ Other sources used:
 
 ![Alt text](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/assets/screenshot.png)
 
-## Highlights:
+## Features:
 
-- Developed specifically for Android TV, Google TV, and custom launcher environments (Projectivy Launcher, FLauncher, Wolf Launcher, etc.).
-- Consistent, unified design language that eliminates visual clutter.
-- High-contrast, minimalist iconography sitting on a translucent canvas.
+- Developed specifically for Android TV, Google TV, and custom launcher environments (Projectivy Launcher, etc.).
+- Consistent, unified design language.
+- High-contrast, minimalist iconography on a translucent canvas.
+- Works best on a dark background.
 
 ## How to install:
 
