@@ -4,9 +4,17 @@ Built for tinkerers who love a clean setup, this icon pack takes inspiration fro
 
 Wherever possible, the icons display non-text icons for a clean aesthetic, the exception being text-only logos.
 
+## Design philosophy
+
+I made these purely for myself. After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I immediately needed to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. After that I added a few others that might be useful.
+
+## Icon requests
+
+Feel free to submit an issue with an icon request. Here is the list of supported icons:
+
 ## Design process & sources
 
-Icons were either sourced from [Simple Icons](https://simpleicons.org/) or in some cases completely redesigned. I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
+Icons were either sourced from [Simple Icons](https://simpleicons.org/) or in some cases completely redesigned, such as Tizen Tube, ProjectIvy etc. I used Jahir's [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
 
 ## Screenshot
 
