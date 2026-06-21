@@ -12,4 +12,4 @@ While traditional TV icons feature a chaotic mix of solid shapes, vibrant colors
 
 ## How to install:
 
-Use Downloader code 4927174 or get it [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/release/com.hqnscl.minimalisticons-1.0.0-release.apk).
+Use Downloader code 4845446 or get it [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/tag/v1.0.0).
