@@ -10,7 +10,7 @@ I made these purely for myself. After discovering ProjectIvy (thanks to the Swit
 
 ## Icon requests
 
-Feel free to submit an issue with an icon request. The list of supported icons and be found [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/iconlist.md).
+Feel free to submit an issue with an icon request. The (currently very short) list of supported icons and be found [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/iconlist.md).
 
 ## Design process & sources
 
