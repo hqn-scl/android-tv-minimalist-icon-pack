@@ -1,6 +1,4 @@
 .DS_Store
 *.psd
 workfiles/
-release/com.hqnscl.minimalisticons-1.0.0-release.apk
-release/baselineProfiles/0/com.hqnscl.minimalisticons-1.0.0-release.dm
-release/baselineProfiles/1/com.hqnscl.minimalisticons-1.0.0-release.dm
+release/
