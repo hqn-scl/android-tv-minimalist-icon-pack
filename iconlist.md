@@ -1,4 +1,4 @@
-# - # Supported app icons
+# Supported app icons
 
 - ABC News
 - AdGuard
