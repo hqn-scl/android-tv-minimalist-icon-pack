@@ -1,32 +1,57 @@
-# Supported app icons
+# - # Supported app icons
 
-- Adguard
+- ABC News
+- AdGuard
+- Al Jazeera
+- Amazon Music
 - Amazon Prime
-- App Store
 - Apple TV
+- App Store
+- BBC iPlayer
+- Button Remapper
+- Chrome
+- Criterion
 - Crunchyroll
-- Disney Plus
+- Disney+
 - Downloader
+- Dropbox
+- DuckDuckGo
+- Filenames
 - Files
-- Google Chrome
+- Formula 1
+- Fox News
+- Google Home
+- Google Maps
 - Google Play
+- Google Play Games
 - HBO Max
+- iQIYI
 - Jellyfin
 - Kodi
+- LocalSend
+- NASA
+- NBC News
+- NBC Sports
 - Netflix
 - Nuvio
-- Paramount Plus
+- Paramount+
 - Plex
 - Projectivy
-- ProtonVPN
+- Proton VPN
+- Real-Debrid
+- Red Bull TV
+- Settings
 - SmartTube
+- SoundCloud
 - Spotify
 - Steam
 - Stremio
+- Syfy
 - TizenTube
 - Twitch
+- Vidio
 - VLC
-- Wuplay
+- WuPlay
 - YouTube
 - YouTube Kids
 - YouTube Music

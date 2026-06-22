@@ -1,16 +1,12 @@
 # A Minimalist Icon Pack for Android TV Launchers
 
-This icon pack is built on the shoulders of giants. It takes inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). The goal was to stick to the design philosophy of Apple TV-style icons, but with a unified bacground color for a consistent look.
-
-Icons prioritize clean, non-text symbols, using wordmarks only when unavoidable.
-
-## Design philosophy
+This icon pack is built on the shoulders of giants. It takes inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). My goal was to provide a clean "icon-first" look, but with a unifying background color. Icons prioritize clean, non-text symbols, using wordmarks only when unavoidable.
 
 After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I immediately needed to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. After that I added more. I intend to add more over time, and I welcome requests for new icons.
 
 ## Icon requests
 
-Feel free to submit an issue with an icon request. The (currently very short) list of supported icons and be found [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/iconlist.md).
+Feel free to submit an issue with an icon request. The current list of supported icons and be found [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/iconlist.md).
 
 ## Design process & sources
 
