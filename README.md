@@ -4,6 +4,17 @@ This icon pack is built on the shoulders of giants. It takes inspiration from th
 
 After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I immediately needed to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. After that I added more. I intend to add more over time, and I welcome requests for new icons.
 
+## Preview
+
+![Alt text](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/assets/screenshot.png)
+
+## Features:
+
+- Developed specifically for Android/Google TV and custom launcher environments (Projectivy Launcher, etc.).
+- Unified design.
+- High-contrast iconography on a translucent background.
+- Works best on a dark background.
+
 ## Icon requests
 
 Feel free to submit an issue with an icon request. The current list of supported icons and be found [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/iconlist.md).
@@ -18,17 +29,6 @@ In many cases, icons such as Tizen Tube and ProjectIvy were redesigned from the 
 
 - [Simple Icons](https://simpleicons.org/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-
-## Screenshot
-
-![Alt text](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/assets/screenshot.png)
-
-## Features:
-
-- Developed specifically for Android TV, Google TV, and custom launcher environments (Projectivy Launcher, etc.).
-- Consistent, unified design language.
-- High-contrast, minimalist iconography on a translucent canvas.
-- Works best on a dark background.
 
 ## How to install:
 
