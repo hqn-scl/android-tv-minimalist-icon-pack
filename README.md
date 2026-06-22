@@ -2,7 +2,7 @@
 
 This icon pack is built on the shoulders of giants. It takes inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). My goal was to provide a clean "icon-first" look, but with a unifying background color. Icons prioritize clean, non-text symbols, using wordmarks only when unavoidable.
 
-After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I immediately needed to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. After that I added more. I intend to add more over time, and I welcome requests for new icons.
+After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I immediately needed to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. Threfore, this icon pack is ideal for users who prefer to tweak and tinker with their setups, using apps like Nuvio, Wuplay, Stremio etc.
 
 ## Preview
 
