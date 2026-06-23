@@ -1,3 +1,5 @@
+![Alt text](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/assets/ic_launcher.png)
+
 # A Minimalist Icon Pack for Android TV Launchers
 
 This icon pack is built on the shoulders of giants. It takes a lot of inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). Just like Mortisshadow, my goal was to provide a clean "icon-first" look, but instead with a unifying background color. The icon pack prioritizes non-text symbols, using wordmarks only when unavoidable.
