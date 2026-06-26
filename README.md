@@ -32,7 +32,7 @@ Using Adobe Illustrator I exclusively rely on vector graphics for a sharp look. 
 
 ## How to install:
 
-Currently testing, so coming soon!
+Use Downloader code 7305118 or get the .APK [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/latest).
 
 ## Disclaimer & Copyright
 
