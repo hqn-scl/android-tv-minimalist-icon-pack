@@ -2,7 +2,7 @@
 
 # A Minimalist Icon Pack for Android TV Launchers
 
-[![Support Me](https://img.shields.io/badge/Support%20Me-76CC11?style=for-the-badge&logoColor=white)](https://sociabuzz.com/hqn-scl)
+[![Support Me on SociaBuzz](https://img.shields.io/badge/Support%20Me-76CC11?style=for-the-badge&logoColor=white)](https://sociabuzz.com/hqn-scl)
 
 This icon pack is built on the shoulders of giants. It takes a lot of inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). Just like Mortisshadow, my goal was to provide a clean "icon-first" look, but instead with a unifying background color similar to SicMundus86's work. The icon pack prioritizes non-text symbols, using wordmarks only when unavoidable.
 
