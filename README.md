@@ -26,7 +26,7 @@ Feel free to submit an issue with an icon request. The current list of supported
 
 ## Design process & sources
 
-Using Adobe Illustrator I exclusively rely on vector graphics for a sharp look. If I'm unable to find a crisp SVG file, I retrace the logo so that it looks as close as possible to the original. In many cases, icons for Tizen Tube, ProjectIvy and Button Remapper were redesigned from the ground up because I couldn't find an appropriate SVG or the PNG file was not of a sufficiently high resolution. The Smarttube icon was given a small facelift.
+Using Adobe Illustrator I exclusively rely on vector graphics for a sharp look. If I'm unable to find a crisp SVG file, I remake the logo so that it looks as close as possible to the original. In many cases, icons for Tizen Tube, ProjectIvy and Button Remapper were redesigned from the ground up because I couldn't find an appropriate SVG or the PNG file was not of a sufficiently high resolution. The Smarttube icon was given a small facelift.
 
 ### Other sources include:
 
