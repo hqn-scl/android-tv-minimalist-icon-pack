@@ -14,7 +14,7 @@ After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](h
 
 ## How to install:
 
-Use Downloader code 7305118 or get the .APK [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/latest).
+Use Downloader code **7305118** or get the .APK [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/latest).
 
 ## Features:
 
