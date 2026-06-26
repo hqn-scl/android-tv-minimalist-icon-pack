@@ -4,7 +4,7 @@
 
 [Support me](https://sociabuzz.com/hqn-scl/support)
 
-This icon pack is built on the shoulders of giants. It takes a lot of inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). Just like Mortisshadow, my goal was to provide a clean "icon-first" look, but instead with a unifying background color. The icon pack prioritizes non-text symbols, using wordmarks only when unavoidable.
+This icon pack is built on the shoulders of giants. It takes a lot of inspiration from the foundational styling of Mortisshadow’s [Minimal TV Icons](https://github.com/Mortisshadow/minimal-tv-icons) and of SicMundus86’s [ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack). Just like Mortisshadow, my goal was to provide a clean "icon-first" look, but instead with a unifying background color similar to SicMundus86's work. The icon pack prioritizes non-text symbols, using wordmarks only when unavoidable.
 
 After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](https://www.youtube.com/@SwitchandClickOfficial)) I just had to figure out how to make my own icons. I focused first on the apps that I use most often: Wuplay, ProjectIvy, Tizen Tube & Smarttube. From there I just added more icons.
 
