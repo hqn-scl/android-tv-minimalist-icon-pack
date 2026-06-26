@@ -10,6 +10,10 @@ After discovering ProjectIvy (thanks to the Switch and Click [YouTube channel](h
 
 ![Alt text](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/assets/screenshot.png)
 
+## How to install:
+
+Use Downloader code 7305118 or get the .APK [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/latest).
+
 ## Features:
 
 - Developed specifically for Android/Google TV and custom launcher environments (Projectivy Launcher, etc.).
@@ -29,10 +33,6 @@ Using Adobe Illustrator I exclusively rely on vector graphics for a sharp look. 
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 - [Simple Icons](https://simpleicons.org/)
 - [Jahir's Blueprint](https://github.com/jahirfiquitiva/Blueprint) Android dashboard to create the icon pack APK.
-
-## How to install:
-
-Use Downloader code 7305118 or get the .APK [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/releases/latest).
 
 ## Disclaimer & Copyright
 
