@@ -25,6 +25,7 @@ Use Downloader code **7305118** or get the .APK [here](https://github.com/hqn-sc
 ## Icon requests
 
 Feel free to submit an issue with an icon request. The current list of supported icons and be found [here](https://github.com/hqn-scl/android-tv-minimalist-icon-pack/blob/main/iconlist.md).
+**Important**: when making a request, always try to submit with the relevant app's **Package Name** (or Application ID), this will ensure the right icons will be assigned to the correct app.
 
 ## Design process & sources
 
